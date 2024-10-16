@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi, My Name is Yuvraj Singh</h1>
+<h1 text-align="center">Hi, My Name is Yuvraj Singh</h1>
 <br>I am pursuing my B-Tech in Computer Science Engineering from Siksha 'O' Anusandhan University.<br>I am currently learning React.js<br>Ask me anything about tech<br>Also a Graphic Designer
 
 
